@@ -1,0 +1,11 @@
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\bin\Debug\五子棋2.exe.config
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\bin\Debug\五子棋2.exe
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\bin\Debug\五子棋2.pdb
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.csproj.AssemblyReference.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.csproj.SuggestedBindingRedirects.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.Form1.resources
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.Properties.Resources.resources
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.csproj.GenerateResource.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.csproj.CoreCompileInputs.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.exe
+D:\AllLangFiles\C#\立项：五子棋\wuziqi2\五子棋2\五子棋2\obj\Debug\五子棋2.pdb
