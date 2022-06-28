@@ -1,0 +1,12 @@
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\bin\Debug\wuziqidemo.exe.config
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\bin\Debug\wuziqidemo.exe
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\bin\Debug\wuziqidemo.pdb
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.csproj.AssemblyReference.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.csproj.SuggestedBindingRedirects.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.Properties.Resources.resources
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.csproj.GenerateResource.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.csproj.CoreCompileInputs.cache
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.exe
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.pdb
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.Form1.resources
+D:\AllLangFiles\C#\立项：五子棋\wuziqi\wuziqidemo\wuziqidemo\obj\Debug\wuziqidemo.Form2.resources
